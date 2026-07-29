@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/avinashbattula19-dotcom/leet-code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/avinashbattula19-dotcom/leet-code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/avinashbattula19-dotcom/leet-code/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/avinashbattula19-dotcom/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/avinashbattula19-dotcom/leet-code/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
@@ -67,6 +68,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/avinashbattula19-dotcom/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/avinashbattula19-dotcom/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
