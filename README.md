@@ -8,11 +8,13 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/avinashbattula19-dotcom/leet-code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/avinashbattula19-dotcom/leet-code/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avinashbattula19-dotcom/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/avinashbattula19-dotcom/leet-code/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/avinashbattula19-dotcom/leet-code/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/avinashbattula19-dotcom/leet-code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/avinashbattula19-dotcom/leet-code/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
