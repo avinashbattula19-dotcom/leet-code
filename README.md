@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avinashbattula19-dotcom/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/avinashbattula19-dotcom/leet-code/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/avinashbattula19-dotcom/leet-code/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/avinashbattula19-dotcom/leet-code/tree/master/0136-single-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,4 +88,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/avinashbattula19-dotcom/leet-code/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/avinashbattula19-dotcom/leet-code/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
