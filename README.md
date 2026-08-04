@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avinashbattula19-dotcom/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/avinashbattula19-dotcom/leet-code/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/avinashbattula19-dotcom/leet-code/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/avinashbattula19-dotcom/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/avinashbattula19-dotcom/leet-code/tree/master/0136-single-number) |
 ## Binary Search
 |  |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/avinashbattula19-dotcom/leet-code/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/avinashbattula19-dotcom/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
 |  |
 | ------- |
